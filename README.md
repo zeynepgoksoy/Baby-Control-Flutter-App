@@ -1,4 +1,4 @@
-# This is my graduation project for univesity.
+# # Graduation project
 
 # What we do in this app?
 Main purpose of this app to create a bridge between patients that have newborn babies and doctors.
