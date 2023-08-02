@@ -1,16 +1,11 @@
-# bitirme2
+# This is my graduation project for univesity.
 
-A new Flutter project.
+# What we do in this app?
+Main purpose of this app to create a bridge between patients that have newborn babies and doctors.
+This is the app for people who newly become parents. Newborn babies have routine controls every month and have to be vaccinated at spesific times. With this app parents add as record to app. After you adding your baby then you can add his/her informations and after every month you can add the baby's new control records. 
+Doctors can view their baby patient's informations and control results.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I used flutter for this project and for database used Firebase Firestore.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
